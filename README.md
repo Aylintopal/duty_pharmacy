@@ -1,3 +1,3 @@
-# duty_pharmacy
+# Duty Pharmacy
 
-Duty Pharmacy App
+Türkiye'de bulunan il ve ilçelere göre arama yapabileceğiniz bir nöbetçi eczane uygulaması.
